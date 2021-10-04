@@ -1,4 +1,4 @@
-![banner](https://miro.medium.com/max/1400/0*JkWEo400nDymhtnl)
+![banner](images/Banner.jpg)
 
 ### <p style="text-align: center;"> Hi there, I'm <span style="color: hotpink; font-weight: bold">Sayantani</span></p>
 
